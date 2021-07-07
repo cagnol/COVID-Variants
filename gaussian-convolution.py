@@ -35,8 +35,8 @@ def Toeplitz (order):
 # Load image I
 
 start_time = time.time()
-I = image.imread('lena-orig.png')
-N,M = I.shape
+I = image.imread('EiffelTower.png')
+N,M,Z = I.shape
 print("Image Loaded (%dx%d) in %d seconds"%(N,M,time.time() - start_time))
 
 

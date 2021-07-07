@@ -32,9 +32,9 @@ This script uses the Pontryagin principle to derive the optimal control.
 This script uses the simulated annealing algorithm to derive the optimal control.
 
 
-**`gaussian-convolution.py`** and **`lena-orig.png`**
+**`gaussian-convolution.py`** and **`EiffelTower.png`**
 The script checks the computation of 4th-order tensor P is consistent with the multiplication of the Toeplitz matrices. It also verifies the computation of P..I can be achieved with Gaussian_blur (with proper options).
-The blurred image appearing in Appendix B was created with this script. The original picture is lena-orig.png
+The blurred image appearing in Appendix B was created with this script. The original picture is EiffelTower.png
 
 
 
