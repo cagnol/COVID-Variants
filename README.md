@@ -6,10 +6,10 @@
 
 This repository includes the code for reproducing the results in the manuscript "Modeling the emergence of vaccine-resistant variants with Gaussian convolution". The citation for the manuscript is:
 
-> **Modeling the emergence of vaccine-resistant variants with Gaussian convolution** 
-Christian Bongiorno and John Cagnol. 
-medRxiv 2021.xxx (to be added)
-doi: https://doi.org/10.xxx (to be added)
+> **Modeling the emergence of vaccine-resistant variants with Gaussian convolution. COVID-19: Could the wrong strategy ruin vaccine efficiency?** 
+Christian Bongiorno and John Cagnol.
+medRxiv 2021.07.07.21259916;
+doi: https://doi.org/10.1101/2021.07.07.21259916
 
 
 
